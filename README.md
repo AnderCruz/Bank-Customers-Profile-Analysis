@@ -58,9 +58,12 @@ The dataset includes information about nearly 9,000 active credit card holders a
 * Clustering helps the bank personalize offerings such as loan limits, interest rates, or reward programs.
 * The PCA plots provide a clear separation of segments.
 
-## Technologies Used
+ ## Technologies Used
 
 * Python
 * Pandas, NumPy
 * Scikit-learn
 * Matplotlib, Seaborn
+
+## Business Strategy Recommendation
+Based on the cluster analysis, a recommendation was made to conduct an A/B test. For example, for the cluster of customers who don't pay their bill in full, the bank could offer a special investment product to a test group (B) and compare their behavior to a control group (A) that does not receive the offer. This would help determine if the marketing strategy is effective for that segment.
