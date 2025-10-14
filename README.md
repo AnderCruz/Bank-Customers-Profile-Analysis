@@ -1,6 +1,6 @@
 # Bank Customer Segmentation Analysis
 
-This project was developed by **Nowa Analytics Consulting** and is part of my professional portfolio designed to demonstrate applied data science capabilities in the financial sector.
+This project was developed by **Nowa Analytics Consulting** and is part of my professional portfolio designed to demonstrate applied data science capabilities in the financial sector.This project focuses on customer segmentation to define a marketing strategy using the "Credit Card Dataset for Clustering". The dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months.
 
 ## Project Overview
 
